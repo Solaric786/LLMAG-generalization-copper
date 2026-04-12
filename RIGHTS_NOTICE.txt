@@ -1,0 +1,7 @@
+RIGHTS NOTICE
+
+This repository is made public for research transparency, scholarly communication, and manuscript review.
+
+Unless a separate license file is added later, all rights remain with the authors. Public visibility of the repository does not by itself grant permission for unrestricted reuse, redistribution, or commercial use.
+
+If you wish to reuse material from this repository beyond normal scholarly quotation and citation, please contact the corresponding author(s).

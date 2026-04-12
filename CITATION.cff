@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the archived release of this repository and the associated paper."
+title: "LLMAG-generalization-copper"
+type: software
+authors:
+  - family-names: "Bilal"
+    given-names: "Muhammad Atif"
+  - family-names: "Wang"
+    given-names: "Yongzhi"
+  - family-names: "Hlyniana"
+    given-names: "Kateryna"
+  - family-names: "Hameed"
+    given-names: "Fahad"
+  - family-names: "Mughal"
+    given-names: "Muhammad Saleem"
+abstract: >
+  Clean notebook implementation of the LLMAG workflow for geological
+  generalization and copper occurrence integration.
+repository-code: "https://github.com/Solaric786/LLMAG-generalization-copper"

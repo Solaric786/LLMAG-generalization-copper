@@ -1,0 +1,12 @@
+numpy
+pandas
+geopandas
+shapely
+scikit-learn
+requests
+openpyxl
+fiona
+pyproj
+rtree
+notebook
+jupyterlab
